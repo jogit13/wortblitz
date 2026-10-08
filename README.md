@@ -10,7 +10,9 @@ Errate das Wort mit 5 Buchstaben in 6 Versuchen. Nach jedem Versuch zeigt die Fa
 
 ## Spielen
 
-`index.html` im Browser öffnen, fertig. Es wird weder ein Build noch ein Server noch eine Internetverbindung gebraucht.
+Online: **https://jogit13.github.io/wortblitz/**
+
+Offline: `index.html` im Browser öffnen, fertig. Es wird weder ein Build noch ein Server noch eine Internetverbindung gebraucht.
 
 ## Funktionen
 
